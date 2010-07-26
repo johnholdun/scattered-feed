@@ -12,7 +12,7 @@
   <body>
     <header>
       <h1>Scattered Feed</h1>
-      <p>I&rsquo;m scattering feed for the chickens. Not it&rsquo;s all scattered.</p>
+      <p>I&rsquo;m scattering feed for the chickens. Now it&rsquo;s all scattered.</p>
     </header>
         
     <ul class="feed">
